@@ -1,4 +1,4 @@
-🔐 SCT_CS_1
+🔐 _Encryption__Decryption_project_cs
 
 Caesar Cipher Encryption & Decryption System
 
@@ -35,4 +35,5 @@ K = Shift value
 ## ▶️ How to Run
 
 ```bash
-python sct_cs_1.py
+python _Encryption__Decryption_project_cs.py
+
