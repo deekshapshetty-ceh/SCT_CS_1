@@ -1,5 +1,5 @@
 """
-Project Name: SCT_CS_1
+Project Name: _Encryption__Decryption_project_cs
 Title: Caesar Cipher Encryption & Decryption
 Description: A program to encrypt and decrypt text using Caesar Cipher algorithm.
 Author: Deeksha P 
